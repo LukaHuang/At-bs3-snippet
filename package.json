@@ -1,0 +1,32 @@
+{
+  "name": "my-bootstrap3-snippets",
+  "version": "0.1.0",
+  "description": "Bootstrap 3 snippets plugin for Atom",
+  "activationEvents": [],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arandilopez/bootstrap3-snippets"
+  },
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "dependencies": {},
+  "readme": "# Bootstrap 3 snippets for Atom\n\nThis is a BS3 snippets package for Atom. These snippets are in bs3-* style such as [JasonMortonNZ bs3 snippets](https://github.com/JasonMortonNZ/bs3-sublime-plugin)\n\n## Install\n\nIn Atom, open `Preferences > Packages`, search for `bootstrap3-snippets package`. Once it found, click Install button to install package.\n\n## Manual installation\n\nYou can install the latest bootstrap3-snippets version manually from console:\n\n    cd ~/.atom/packages\n    git clone https://github.com/arandilopez/bootstrap3-snippets\n    cd boostrap3-snippets\n    npm install\n    # Then restart Atom editor.\n## Usage\nAn pretty gif of how this works.\n\nTODO: Write an usage list\n\n## Thanks\nThanks to [JasonMortonNZ](https://github.com/JasonMortonNZ) for his awsome ST BS3 snippets.\n\n## Issues\nPlease report any problems or suggestions at [issue tracker](https://github.com/arandilopez/bootstrap3-snippets/issues/new).\n",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/arandilopez/bootstrap3-snippets/issues"
+  },
+  "homepage": "https://github.com/arandilopez/bootstrap3-snippets",
+  "_id": "bootstrap3-snippets@0.1.0",
+  "dist": {
+    "shasum": "f332ea43405649022e3a07f1a181a63fcd362886"
+  },
+  "_resolved": "/private/var/folders/3c/kyfbgpdj10z8zm7ryxfdf0kr0000gn/T/d-114919-1571-16760w4/package.tgz",
+  "_from": "/private/var/folders/3c/kyfbgpdj10z8zm7ryxfdf0kr0000gn/T/d-114919-1571-16760w4/package.tgz",
+  "_atomModuleCache": {
+    "version": 1,
+    "dependencies": [],
+    "folders": []
+  }
+}
